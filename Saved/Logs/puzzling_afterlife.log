@@ -1316,3 +1316,18 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.21-16.35.29:087][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 879 ms)
 [2024.04.21-16.35.29:103][580]AssetCheck: New page: Asset Save: StaticMeshActor_10
 [2024.04.21-16.35.29:103][580]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
+[2024.04.21-16.36.22:662][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-16.36.22:735][839]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+[2024.04.21-16.36.22:735][839]LogSavePackage: Moving '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Saved/XWFFRCIJ8QK4NRO30ALA6J89BA6513488BEE72949CF58AA943D457.tmp' to '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2024.04.21-16.36.22:742][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 959 ms)
+[2024.04.21-16.36.22:744][839]AssetCheck: New page: Asset Save: StaticMeshActor_10
+[2024.04.21-16.36.22:744][839]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
+[2024.04.21-16.36.48:376][407]SourceControl: Revision control is disabled
+[2024.04.21-16.36.51:800][610]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.04.21-16.37.07:855][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-16.37.07:915][ 22]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+[2024.04.21-16.37.07:915][ 22]LogSavePackage: Moving '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Saved/XWFFRCIJ8QK4NRO30ALA6J69258C964E442A886F88B2816DC7EEAC.tmp' to '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2024.04.21-16.37.07:921][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.02 sec)
+[2024.04.21-16.37.07:922][ 22]AssetCheck: New page: Asset Save: StaticMeshActor_10
+[2024.04.21-16.37.07:922][ 22]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
+[2024.04.21-16.37.21:458][374]LogSlate: Window 'Revision Control Login' being destroyed
