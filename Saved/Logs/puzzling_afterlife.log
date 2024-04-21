@@ -1248,3 +1248,31 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.21-16.17.08:103][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms
 [2024.04.21-16.17.08:104][403]AssetCheck: New page: Asset Save: StaticMeshActor_10
 [2024.04.21-16.17.08:104][403]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
+[2024.04.21-16.17.46:838][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-16.17.46:915][659]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+[2024.04.21-16.17.46:915][659]LogSavePackage: Moving '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Saved/XWFFRCIJ8QK4NRO30ALA6JF1D168CE4E3F90077204A689DC52E4CA.tmp' to '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2024.04.21-16.17.46:920][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 175 ms)
+[2024.04.21-16.17.46:931][659]AssetCheck: New page: Asset Save: StaticMeshActor_10
+[2024.04.21-16.17.46:931][659]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
+[2024.04.21-16.18.34:698][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-16.18.34:786][991]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+[2024.04.21-16.18.34:786][991]LogSavePackage: Moving '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Saved/XWFFRCIJ8QK4NRO30ALA6J7BCE28B24F86D7658A5BBE926EA433C3.tmp' to '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2024.04.21-16.18.34:795][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 271 ms)
+[2024.04.21-16.18.34:797][991]AssetCheck: New page: Asset Save: StaticMeshActor_10
+[2024.04.21-16.18.34:797][991]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
+[2024.04.21-16.18.59:050][154]LogDerivedDataCache: C:/Users/lukas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.109 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14010 files in 15927 folders with total size 1453 MiB.
+[2024.04.21-16.21.12:576][702]LogSlate: Took 0.000814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.21-16.21.12:691][709]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-16.21.13:708][766]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.21-16.21.13:710][766]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-16.21.13:710][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.21-16.21.13:722][766]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.21-16.21.14:667][766]LogSlate: Took 0.000647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.21-16.21.14:892][768]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-16.21.19:087][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-16.21.19:164][ 11]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.21-16.21.19:204][ 11]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.21-16.21.19:204][ 11]LogSavePackage: Moving '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Saved/BP_ThirdPersonCharacter4CE7A7D74B9CA21A6DAA838DC32F2FC0.tmp' to '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.21-16.21.19:212][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 397 ms)
+[2024.04.21-16.21.19:214][ 11]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.21-16.21.19:214][ 11]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
