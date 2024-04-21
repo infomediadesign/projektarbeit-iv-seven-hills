@@ -1310,3 +1310,9 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.21-16.33.59:820][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 792 ms)
 [2024.04.21-16.33.59:821][201]AssetCheck: New page: Asset Save: StaticMeshActor_10
 [2024.04.21-16.33.59:821][201]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
+[2024.04.21-16.35.28:998][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-16.35.29:079][580]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+[2024.04.21-16.35.29:080][580]LogSavePackage: Moving '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Saved/XWFFRCIJ8QK4NRO30ALA6JBE92B3314666B08F6AA0B09C4B2149FB.tmp' to '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2024.04.21-16.35.29:087][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 879 ms)
+[2024.04.21-16.35.29:103][580]AssetCheck: New page: Asset Save: StaticMeshActor_10
+[2024.04.21-16.35.29:103][580]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
