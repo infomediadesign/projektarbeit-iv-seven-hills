@@ -1276,3 +1276,13 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.04.21-16.21.19:212][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 397 ms)
 [2024.04.21-16.21.19:214][ 11]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.04.21-16.21.19:214][ 11]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.21-16.21.50:525][210]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.04.21-16.21.50:531][210]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.04.21-16.21.50:544][210]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.21-16.21.50:544][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-16.21.55:097][475]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-16.21.55:171][475]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+[2024.04.21-16.21.55:171][475]LogSavePackage: Moving '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Saved/XWFFRCIJ8QK4NRO30ALA6J042F85E84E2B3E0C8F882787EA5DE29D.tmp' to '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2024.04.21-16.21.55:177][475]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 477 ms)
+[2024.04.21-16.21.55:180][475]AssetCheck: New page: Asset Save: StaticMeshActor_10
+[2024.04.21-16.21.55:181][475]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
