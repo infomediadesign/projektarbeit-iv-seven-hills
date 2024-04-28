@@ -1248,3 +1248,9 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.28-21.13.44:614][404]AssetCheck: New page: Asset Save: StaticMeshActor_10
 [2024.04.28-21.13.44:614][404]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
 [2024.04.28-21.14.21:435][540]LogDerivedDataCache: C:/Users/lukas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.660 and deleted 0 files with total size 0 MiB and 733 empty folders. Scanned 6381 files in 8572 folders with total size 397 MiB.
+[2024.04.28-21.15.13:707][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.28-21.15.13:822][844]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+[2024.04.28-21.15.13:824][844]LogSavePackage: Moving '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Saved/XWFFRCIJ8QK4NRO30ALA6JF614E293443782A6D080439707826883.tmp' to '../../../../../../Users/lukas/Documents/UnrealWorkshop/puzzling_afterlife/projektarbeit-iv-seven-hills/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2024.04.28-21.15.13:855][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 412 ms)
+[2024.04.28-21.15.13:857][844]AssetCheck: New page: Asset Save: StaticMeshActor_10
+[2024.04.28-21.15.13:857][844]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
