@@ -64,3 +64,4 @@ Plugins/**/Binaries/**
 
 # Concepts (Stories / Art), whitelist everything
 !SourceContent/_Concepts/**
+/Saved/Logs
