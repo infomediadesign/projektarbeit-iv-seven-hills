@@ -19,5 +19,8 @@
 			"Name": "RawInput",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
